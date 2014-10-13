@@ -12,3 +12,6 @@ mod 'puppetlabs/concat'
 mod 'puppetlabs/apache'
 mod 'leinaddm/htpasswd'
 mod 'ghoneycutt/common'
+
+mod "notifyme"
+  :git => "git://github.com/glarizza/puppet-notifyme.git"
