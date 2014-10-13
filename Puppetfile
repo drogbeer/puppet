@@ -11,4 +11,4 @@ mod 'puppetlabs/firewall'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/apache'
 mod 'leinaddm/htpasswd'
-mod 'ghoneycutt/common
+mod 'ghoneycutt/common'
