@@ -1,3 +1,6 @@
 forge 'https://forgeapi.puppetlabs.com'
 
-mod 'thias/vsftpd'
+mod 'puppetlabs/stdlib'
+mod 'ghoneycutt/puppet'
+
+
